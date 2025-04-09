@@ -86,3 +86,5 @@ Lihat visualisasi interaktif proyek ini di Tableau Public:
 2. Buka file `Airbnb_Analytics.ipynb` di Jupyter Notebook dan mulai eksplorasi.
 
 3. Kunjungi dashboard Tableau untuk insight visual.
+
+4. Jika Data terlalu besar bisa mengunjungi GDrive dengan link berikut: https://drive.google.com/drive/folders/1vDpxyqgTNtoePmKchSJlpEa6boDCLlNa
